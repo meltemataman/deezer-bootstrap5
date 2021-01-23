@@ -1,0 +1,33 @@
+body {
+    margin-top: 100px;
+}
+
+.fs-20{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.fs-15{
+    font-size: 20px;
+
+}
+
+.section1{
+    height: 435px;
+    background-image: url("/images/phone.png");
+    background-repeat: no-repeat;
+    background-position: top right;
+    
+}
+.section3{
+    background-color: #ef5466;
+    color: #fff;
+}
+
+.box {
+
+    height: 650px;
+}
+.footer {
+    height: 475px;
+}
